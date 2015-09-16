@@ -1,4 +1,4 @@
-# MethodsLab03
+Merge Conflict
 
 change in master
 Partner: Alex Okeson
